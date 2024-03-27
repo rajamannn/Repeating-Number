@@ -1,4 +1,4 @@
-//program to print infinite number using Do While loop
+//program to print repeating number using Do While loop
 //
 
 #include<stdio.h>
